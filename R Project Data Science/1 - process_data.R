@@ -1,5 +1,4 @@
-# The data being used is from the kaggle competition: 
-# https://www.kaggle.com/c/nyc-taxi-trip-duration/data
+# The data being used is from https://www.kaggle.com/c/nyc-taxi-trip-duration/data
 
 # Predict the duration of a taxi trip given different variables 
 # Loading the training data
