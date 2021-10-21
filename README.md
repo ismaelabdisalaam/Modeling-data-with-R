@@ -7,8 +7,8 @@ The workflow is in four phases:
 4-Scoring the test data based  on the root mean sqaure algorithm
 
 
-# Project skills: Data analysis, Modeling and Predicitve analytics-Linear regression
-Packages used:caret, linear regression
+# Project skills: Data analysis, Modeling and Predicitve analytics-Linear regression, Random forest approach
+Packages used:dplyr,ggplot2, caret, mltools, range
 
 # Results 
 After building the model our root mean square is 0.527
